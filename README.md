@@ -1,5 +1,7 @@
 # Hackintosh, MSI Pro Z690-A DDR5, Intel Core i9 12900KF, AMD Radeon RX 6900 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-MSI-PRO-Z690-A-INTEL-CORE-i9-12900KF-RX-6900-XT-PUBLIC/assets/23700365/5daeaedd-c22e-4db0-8e3f-f79472e7d26b)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
